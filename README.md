@@ -31,7 +31,7 @@ Durante o curso, foram abordados:
 
 1. **Clone** este repositório:
    ```bash
-   git clone https://github.com/amandaresende/adopet-cypress-tests``
+   git clone https://github.com/amandaresende/adopet-cypress-tests
    ```
 
 ## Instale as dependências
