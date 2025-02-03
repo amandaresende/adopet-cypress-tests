@@ -31,13 +31,13 @@ Durante o curso, foram abordados:
 
 1. **Clone** este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git``
+   git clone https://github.com/amandaresende/adopet-cypress-tests``
    ```
 
 ## Instale as dependências
 
 ```bash
-cd NOME_DO_SEU_REPO
+cd adopet-cypress-tests
 npm install
 
 ```
